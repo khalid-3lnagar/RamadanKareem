@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ramdan Kareem</string>
+    <string name="ramadan" translatable="false">رمضان</string>
+    <string name="kareem" translatable="false">كريم</string>
+    <string name="From_khalid" translatable="false">من\n خالد</string>
+
+</resources>
